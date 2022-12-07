@@ -1,3 +1,4 @@
+
 #include"bitstring.h"
 #include"neuron.h"
 #include<iostream>
